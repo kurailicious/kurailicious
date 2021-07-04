@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kurai, also known as @kurailicious
+- 👀 I’m interested in clean code, automation and game development
+- 💞️ I’m looking to collaborate on some RPG games, hit me up on Github!
+- 📫 How to reach me ...
